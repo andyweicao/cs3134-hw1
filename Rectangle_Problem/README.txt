@@ -1,0 +1,1 @@
+Here are two java files for this problem. Just simply type "javac *.java" in the directory on the commandline to compile both files and then type "java Problem1" to run the program. If you use the IDE, just compile and run. Becuase I make the rectangle array in the code using the random number, so you do not need to input anything. You can directly see the results.

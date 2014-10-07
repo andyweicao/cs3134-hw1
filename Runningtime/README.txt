@@ -1,0 +1,1 @@
+Here are seven java files for this problem. Just simply type "javac *.java" in the directory on the commandline to compile all files and then type "java Number1" or "java Number2" ... etc. to run each question's program. If you use the IDE, just compile and run. For each question, you will need to enter the N value to see the time result.

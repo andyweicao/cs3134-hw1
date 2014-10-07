@@ -1,0 +1,1 @@
+Simply type “javac Problem2.java” and "java Problem2" to run the program. I put all the testing array and numbers in the code so you can directly see the results. Youcan also change the numbers in the code to see other results.
